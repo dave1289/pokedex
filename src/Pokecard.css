@@ -5,7 +5,8 @@
    text-align: center;
    margin: 10px 10px 10px 10px;
    background-color: grey;
-   display: inline-block;
+   position: relative;
+   justify-content: space-between;
 }
 
 .Pokecard-name {

@@ -1,3 +1,14 @@
+.Pokedex-title {
+   text-align: center;
+   display: block;
+}
+
 .Pokedex {
-   display:contents;
+   width: 50vw;
+   position:relative;
+   margin:auto;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   flex-flow:row wrap;
 }
