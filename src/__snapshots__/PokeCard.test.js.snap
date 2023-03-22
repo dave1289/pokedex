@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="Pokecard"
+  >
+    <h1
+      class="Pokecard-name"
+    />
+    <br />
+    <img
+      class="Pokecard-img"
+      src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/undefined.png"
+    />
+    <br />
+    <sub
+      class="Pokecard-type"
+    >
+      Type: 
+    </sub>
+    <br />
+    <sub
+      class="Pokecard-xp"
+    >
+      EXP: 
+    </sub>
+  </div>
+</DocumentFragment>
+`;

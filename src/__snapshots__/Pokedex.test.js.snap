@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <h1
+    class="Pokedex-title"
+    id="1"
+  >
+    Pokedex
+  </h1>
+  <div
+    class="Pokedex"
+  >
+    <div
+      class="Pokedex-Pokecards"
+    >
+      <div
+        class="Pokecard"
+        id="149"
+      >
+        <h1
+          class="Pokecard-name"
+        >
+          Dragonite
+        </h1>
+        <br />
+        <img
+          alt="Dragonite"
+          class="Pokecard-img"
+          src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+        />
+        <br />
+        <sub
+          class="Pokecard-type"
+        >
+          Type: dragon-flying
+        </sub>
+        <br />
+        <sub
+          class="Pokecard-xp"
+        >
+          EXP: 300
+        </sub>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

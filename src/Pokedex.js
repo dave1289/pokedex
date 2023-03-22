@@ -5,7 +5,7 @@ import './Pokedex.css'
 const Pokedex = ({ pokemonArray }) => {
    return (
       <>
-         <h1 className='Pokedex-title'>Pokedex</h1>
+         <h1 className='Pokedex-title' id='1'>Pokedex</h1>
          <div className='Pokedex'>
             {pokemonArray.map(p => (
                <div className='Pokedex-Pokecards'>
